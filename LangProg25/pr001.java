@@ -14,7 +14,11 @@ class Gen<T> {
 		System.out.println("Тип Т: " + ob.getClass().getName());
 	}
 }
+<<<<<<< HEAD
 class ii001 {
+=======
+class pr001 {
+>>>>>>> 198e7ac (Добавили пример работы функции replan() с копией параметра plan)
 	public static void main(String[] args) {
 		//Создаем обьект типа integer
 		Gen<Integer> iOb;

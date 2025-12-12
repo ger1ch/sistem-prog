@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 /*class GenQueue<T> implements IGenQ<T> {
+=======
+/*
+class GenQueue<T> implements IGenQ<T> {
+>>>>>>> 198e7ac (Добавили пример работы функции replan() с копией параметра plan)
 	private int putloc, getloc;
 	private T[] q;
 	public GenQueue(T[] aRef) {
@@ -15,4 +20,9 @@
 			throw new QueueEmptyException();
 		return q[getloc++];
 	}
+<<<<<<< HEAD
 }*/
+=======
+}
+*/
+>>>>>>> 198e7ac (Добавили пример работы функции replan() с копией параметра plan)

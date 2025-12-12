@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+/*
+>>>>>>> 198e7ac (Добавили пример работы функции replan() с копией параметра plan)
 jshell> class A {                        jdk.
    ...>     int a;                       netscape.
    ...>     String s;                    s
@@ -71,3 +75,7 @@ int[] array1 = new int[10]
 array1[5] = 200;
 a
 array1
+<<<<<<< HEAD
+=======
+*/
+>>>>>>> 198e7ac (Добавили пример работы функции replan() с копией параметра plan)
